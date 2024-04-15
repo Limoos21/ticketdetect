@@ -1,0 +1,12 @@
+colors:
+- [248, 231, 28]
+- [115, 43, 48]
+- [33, 228, 202]
+- [111, 87, 229]
+- [35, 33, 36]
+names: [namep, pricep, pricepcop, weightt, socialp]
+nc: 5
+
+
+train: ../images/train
+val: ../images/val
